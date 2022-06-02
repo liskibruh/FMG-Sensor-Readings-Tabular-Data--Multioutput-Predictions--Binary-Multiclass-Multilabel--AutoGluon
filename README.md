@@ -4,7 +4,7 @@ Predicting the 'Gesture' and 'Position' for sensory data from FMG
 
 test data is FMG_SensorDataReadings-cleaned.csv
 
-train data is training_dataset
+train data is training_dataset.csv
 
 change the file paths in the code to your working directory
 
